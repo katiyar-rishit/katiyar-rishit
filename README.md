@@ -2,7 +2,7 @@
 
 🎓 BTech in Artificial Intelligence & Machine Learning  
 🧠 Exploring ML, Deep Learning, and Systems  
-🚀 From Tier-3 college to research labs — documenting my journey
+🚀 Documenting my journey
 
 ---
 
